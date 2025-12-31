@@ -1,7 +1,7 @@
 #!/bin/sh
-# theme_password_only_no_voucher
+# theme_password
 
-title="theme_password_only"
+title="theme_password"
 
 # Password tetap bisa diset di sini
 PASSWORD="rahasia123"
